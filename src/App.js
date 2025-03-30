@@ -1,5 +1,5 @@
 import React from "react";
-import CogradFellowship from "./components/CogradFellowship"; // Ensure correct path
+import CogradFellowship from "./components/CogradFellowship"; 
 
 function App() {
   return (
